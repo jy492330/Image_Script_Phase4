@@ -1,7 +1,7 @@
 
 
 # Image Enhancements (CS5004 Mini-Project 10)
-Last phase of an MVC application created in Java
+Last phase of the MVC application in Java
 
 ## Table of Contents 
 
